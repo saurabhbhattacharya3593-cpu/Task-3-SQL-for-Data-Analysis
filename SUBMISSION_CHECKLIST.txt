@@ -1,0 +1,14 @@
+TASK 3 SUBMISSION CHECKLIST
+
+[✓] SQL queries file
+[✓] Ecommerce dataset/database
+[✓] SELECT, WHERE, ORDER BY, GROUP BY
+[✓] INNER JOIN, LEFT JOIN, RIGHT JOIN equivalent
+[✓] Subqueries
+[✓] SUM and AVG
+[✓] View for analysis
+[✓] NULL handling
+[✓] Indexes for query optimization
+[✓] Output screenshots
+[✓] README.md
+[✓] GitHub-ready folder
